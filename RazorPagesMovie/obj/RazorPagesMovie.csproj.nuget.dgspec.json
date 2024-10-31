@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\Projects\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\Projects\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\Projects\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\Projects\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectPath": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\Grant\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\Projects\\RazorPagesMovie\\obj\\",
+        "outputPath": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Grant\\AppData\\Roaming\\NuGet\\NuGet.Config",

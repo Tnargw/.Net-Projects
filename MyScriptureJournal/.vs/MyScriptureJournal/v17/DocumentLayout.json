@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\myscripturejournal\\pages\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|solutionrelative:pages\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\myscripturejournal\\pages\\notes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|solutionrelative:pages\\notes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\myscripturejournal\\pages\\notes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|solutionrelative:pages\\notes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\myscripturejournal\\pages\\notes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|solutionrelative:pages\\notes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\myscripturejournal\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|solutionrelative:models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\myscripturejournal\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\myscripturejournal\\data\\myscripturejournalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|solutionrelative:data\\myscripturejournalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\myscripturejournal\\pages\\notes\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|solutionrelative:pages\\notes\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\myscripturejournal\\pages\\notes\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|solutionrelative:pages\\notes\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\myscripturejournal\\pages\\notes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|solutionrelative:pages\\notes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\myscripturejournal\\pages\\notes\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|solutionrelative:pages\\notes\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\myscripturejournal\\pages\\notes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C72153A6-0507-4B69-87E3-A4C89CCE9736}|MyScriptureJournal.csproj|solutionrelative:pages\\notes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Pages\\Notes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Notes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Pages\\Notes\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Notes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T19:12:39.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Pages\\Notes\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Notes\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Pages\\Notes\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Notes\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:12:39.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Pages\\Notes\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Notes\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Pages\\Notes\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Notes\\Create.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:12:38.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "Models\\Note.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Models\\Note.cs",
+              "RelativeToolTip": "Models\\Note.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:02:26.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Pages\\Notes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Notes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Pages\\Notes\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Notes\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T19:12:39.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Pages\\Notes\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Notes\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Pages\\Notes\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Notes\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:12:39.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T19:21:57.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyScriptureJournalContext.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Data\\MyScriptureJournalContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyScriptureJournalContext.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Data\\MyScriptureJournalContext.cs",
+              "RelativeToolTip": "Data\\MyScriptureJournalContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:12:38.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Pages\\Notes\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Notes\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Pages\\Notes\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Notes\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:12:39.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Pages\\Notes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Notes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Pages\\Notes\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Notes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T19:12:39.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Pages\\Notes\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Notes\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Pages\\Notes\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Notes\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:12:39.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Pages\\Notes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Notes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\MyScriptureJournal\\Pages\\Notes\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Notes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T19:12:39.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
