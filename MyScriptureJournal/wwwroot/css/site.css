@@ -1,22 +1,112 @@
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    box-shadow: 0 0 0 0.1rem #ffffff, 0 0 0 0.25rem #7a9cc1;
 }
 
-html {
-  position: relative;
-  min-height: 100%;
+html, body {
+    min-height: 100%;
+    background-color: #f8f9fa; 
+    color: #333; 
+    font-family: 'Georgia', serif;
+    line-height: 1.6; 
+    padding: 5;
+    margin: 5;
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 10px; 
 }
+
+.container {
+    max-width: 1280px;
+    margin: auto;
+    padding: 5px;
+    background-color: #ffffff; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    border-radius: 8px; 
+}
+
+h1, h2, h3 {
+    color: #4a5d73; 
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    background-color: #4a5d73; 
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #3a4a5e; 
+}
+
+.search-button {
+    background-color: #4a5d73;
+    color: #ffffff;
+    border: none;
+    padding: 5px 10px;
+    font-size: 0.90rem; 
+    cursor: pointer;
+    border-radius: 3px; 
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+    .search-button:hover {
+        background-color: #3a4a5e; 
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    }
+
+    .search-button:active {
+        background-color: #2a3a4e; 
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+.form-control {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    font-size: 1rem;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.form-control:focus {
+    border-color: #7a9cc1;
+    box-shadow: 0 0 0 0.2rem rgba(122, 156, 193, 0.25);
+}
+
+.content-wrapper {
+    padding-bottom: 60px; 
+}
+
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(74, 93, 115, 0.8);
+    color: #ffffff;
+    font-size: 0.85rem;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+

@@ -5,56 +5,73 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<div class="content-wrapper">
+    <h1>Index</h1>
 
-<p>
-    <a asp-page="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Note[0].Book)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Note[0].Chapter)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Note[0].Verse)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Note[0].Entry)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Note[0].DateAdded)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model.Note) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Book)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Chapter)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Verse)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Entry)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.DateAdded)
-            </td>
-            <td>
-                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+    <p>
+        <a asp-page="Create">Add New Entry</a>
+    </p>
+    <form method="get" id="filterForm">
+        <div class="row">
+            <div class="col-md-8">
+                <label>
+                    Search by book:
+                    <select asp-for="NoteBook" asp-items="Model.Books">
+                        <option value="">All</option>
+                    </select>
+                </label>
+
+                <label class="ml-3">Entry: <input type="text" asp-for="SearchString" /></label>
+                <button type="submit" class="ml-3 search-button">Search</button>
+
+            </div>
+            <div class="col-md-4 d-flex justify-content-end">
+                <label>
+                    Sort By:
+                    <select name="sortOrder" onchange="document.getElementById('filterForm').submit()">
+                        <option value="">Date (Ascending)</option>
+                        <option value="date_desc">Date (Descending)</option>
+                        <option value="Book">Book (A - Z)</option>
+                        <option value="book_desc">Book (Z - A)</option>
+                    </select>
+                </label>
+            </div>
+        </div>
+    </form>
+
+    <div class="table-responsive" style="max-height: 500px; overflow-y: auto;">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.Note[0].Book)</th>
+                    <th>@Html.DisplayNameFor(model => model.Note[0].Chapter)</th>
+                    <th>@Html.DisplayNameFor(model => model.Note[0].Verse)</th>
+                    <th>@Html.DisplayNameFor(model => model.Note[0].Entry)</th>
+                    <th>@Html.DisplayNameFor(model => model.Note[0].DateAdded)</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Note)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.Book)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Chapter)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Verse)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Entry)</td>
+                        <td>@item.DateAdded.ToString("MM/dd/yyyy hh:mm tt")</td>
+                        <td>
+                            <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                            <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                            <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<footer class="footer">
+    <!-- Footer content here -->
+</footer>

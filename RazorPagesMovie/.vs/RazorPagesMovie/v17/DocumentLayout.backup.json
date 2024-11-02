@@ -30,7 +30,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T21:54:14.453Z"
+              "WhenOpened": "2024-10-22T21:54:14.453Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -42,8 +43,7 @@
               "RelativeToolTip": "Models\\Movie.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwBkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T21:29:52.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T21:29:52.04Z"
             }
           ]
         }

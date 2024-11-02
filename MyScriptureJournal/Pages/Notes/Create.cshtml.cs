@@ -21,11 +21,16 @@ namespace MyScriptureJournal.Pages.Notes
 
         public IActionResult OnGet()
         {
+            Note = new Note
+            {
+                DateAdded = DateTime.Now
+            };
             return Page();
         }
 
         [BindProperty]
         public Note Note { get; set; } = default!;
+
 
         // For more information, see https://aka.ms/RazorPagesCRUD.
         public async Task<IActionResult> OnPostAsync()

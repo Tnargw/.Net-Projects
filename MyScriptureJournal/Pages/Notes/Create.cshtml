@@ -35,7 +35,8 @@
             </div>
             <div class="form-group">
                 <label asp-for="Note.DateAdded" class="control-label"></label>
-                <input asp-for="Note.DateAdded" class="form-control" />
+                <input asp-for="Note.DateAdded" class="form-control" type="datetime-local"
+                       value="@Model.Note.DateAdded.ToString("yyyy-MM-ddTHH:mm")" />
                 <span asp-validation-for="Note.DateAdded" class="text-danger"></span>
             </div>
             <div class="form-group">
