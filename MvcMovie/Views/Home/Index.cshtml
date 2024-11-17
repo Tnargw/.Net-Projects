@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Church Movies - Home";
+    var currentYear = DateTime.Now.Year;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header class="text-center">
+        <h1>Welcome to the Church Movies Database</h1>
+        <p>Explore inspiring, faith-based films like <em>The RM</em>, <em>The Other Side of Heaven</em>, and <em>Meet the Mormons</em>.</p>
+    </header>
+
+    <main class="container">
+        <section class="text-center">
+            <p>
+                <a class="btn btn-primary" asp-controller="Movies" asp-action="Index">View Movies</a>
+                <a class="btn btn-success" asp-controller="Movies" asp-action="Create">Add a New Movie</a>
+            </p>
+        </section>
+        <section>
+            <h2>About the App</h2>
+            <p>
+                This application is a Church-themed movie database built using ASP.NET Core MVC. You can browse, search, and sort movies by release date. The app is designed to highlight inspiring films that align with faith and family values.
+            </p>
+        </section>
+        <section>
+            <h2>Features</h2>
+            <ul>
+                <li>Search for movies by title and genre.</li>
+                <li>Sort movies by release date (ascending or descending).</li>
+                <li>Filter movies by genre to find exactly what you're looking for.</li>
+                <li>Add new Church-themed movies with validation for proper input.</li>
+                <li>View detailed information, including an image of the movie.</li>
+            </ul>
+        </section>
+    </main>
+
+
+</body>
+</html>

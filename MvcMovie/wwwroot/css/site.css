@@ -1,0 +1,78 @@
+/* site.css */
+
+/* General styles */
+body {
+    background-color: #f0f8ff; /* AliceBlue */
+    color: #333; /* Dark Gray */
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #2c3e50; /* Midnight Blue */
+}
+
+a {
+    color: #3498db; /* Light Blue */
+}
+
+    a:hover {
+        color: #2980b9; /* Darker Blue */
+    }
+
+/* Navbar styles */
+.navbar {
+    background-color: #3498db; /* Light Blue */
+    border-color: #2980b9; /* Darker Blue */
+}
+
+.navbar-brand, .navbar-nav > li > a {
+    color: #fff; /* White */
+}
+
+    .navbar-brand:hover, .navbar-nav > li > a:hover {
+        color: #ecf0f1; /* Light Gray */
+    }
+
+/* Button styles */
+.btn-primary {
+    background-color: #3498db; /* Light Blue */
+    border-color: #2980b9; /* Darker Blue */
+}
+
+    .btn-primary:hover {
+        background-color: #2980b9; /* Darker Blue */
+        border-color: #1c5980; /* Even Darker Blue */
+    }
+
+/* Form styles */
+.form-control {
+    border-color: #3498db; /* Light Blue */
+}
+
+    .form-control:focus {
+        border-color: #2980b9; /* Darker Blue */
+        box-shadow: 0 0 8px rgba(41, 128, 185, 0.6); /* Light Blue Shadow */
+    }
+
+/* Table styles */
+.table {
+    background-color: #fff; /* White */
+    border: 1px solid #ddd; /* Light Gray */
+}
+
+    .table th {
+        background-color: #3498db; /* Light Blue */
+        color: #fff; /* White */
+    }
+
+    .table td {
+        border: 1px solid #ddd; /* Light Gray */
+    }
+
+/* Footer styles */
+footer {
+    background-color: #2c3e50; /* Midnight Blue */
+    color: #fff; /* White */
+    padding: 10px 0;
+    text-align: center;
+}
