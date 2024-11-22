@@ -1,0 +1,768 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\views\\instructors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:views\\instructors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\views\\instructors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:views\\instructors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\views\\courses\\updatecoursecredits.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:views\\courses\\updatecoursecredits.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\migrations\\20241122192629_inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:migrations\\20241122192629_inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\views\\instructors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:views\\instructors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\models\\schoolviewmodels\\assignedcoursedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:models\\schoolviewmodels\\assignedcoursedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\models\\schoolviewmodels\\enrollmentdategroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:models\\schoolviewmodels\\enrollmentdategroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\views\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:views\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\models\\schoolviewmodels\\instructorindexdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:models\\schoolviewmodels\\instructorindexdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\models\\courseassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:models\\courseassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\migrations\\20241120222830_complexdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:migrations\\20241120222830_complexdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\models\\officeassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:models\\officeassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\migrations\\schoolcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:migrations\\schoolcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\migrations\\20241120211219_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:migrations\\20241120211219_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|c:\\users\\grant\\desktop\\school\\.net software development\\.net-projects\\watsonuniversity\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05B6B94-50FA-4D29-97BC-302ED17F9D03}|WatsonUniversity.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Departments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Departments\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:16:44.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Instructors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Instructors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Instructors\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Instructors\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T18:54:00.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Instructors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Instructors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Instructors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Instructors\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T18:46:13.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T22:55:32.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T23:17:35.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T22:53:40.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T21:02:26.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:23:44.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Departments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Departments\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:22:50.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Departments\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Departments\\Details.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:23:07.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:11:29.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:23:39.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwDMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:15:18.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAA7wLUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:41:53.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:00:28.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateCourseCredits.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Courses\\UpdateCourseCredits.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\UpdateCourseCredits.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Courses\\UpdateCourseCredits.cshtml",
+              "RelativeToolTip": "Views\\Courses\\UpdateCourseCredits.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T21:31:57.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Data\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "Data\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:04:34.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:08:33.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:24:28.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\Instructor.cs",
+              "RelativeToolTip": "Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:21:28.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:00:24.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241122192629_Inheritance.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Migrations\\20241122192629_Inheritance.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241122192629_Inheritance.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Migrations\\20241122192629_Inheritance.cs",
+              "RelativeToolTip": "Migrations\\20241122192629_Inheritance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:17:12.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T23:07:15.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Instructors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Instructors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Instructors\\Create.cshtml",
+              "RelativeToolTip": "Views\\Instructors\\Create.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:04:25.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InstructorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Controllers\\InstructorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InstructorsController.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Controllers\\InstructorsController.cs",
+              "RelativeToolTip": "Controllers\\InstructorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:44:50.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AssignedCourseData.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\SchoolViewModels\\AssignedCourseData.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolViewModels\\AssignedCourseData.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\SchoolViewModels\\AssignedCourseData.cs",
+              "RelativeToolTip": "Models\\SchoolViewModels\\AssignedCourseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:00:04.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EnrollmentDateGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\SchoolViewModels\\EnrollmentDateGroup.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolViewModels\\EnrollmentDateGroup.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\SchoolViewModels\\EnrollmentDateGroup.cs",
+              "RelativeToolTip": "Models\\SchoolViewModels\\EnrollmentDateGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:00:11.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Courses\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Courses\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T18:55:34.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Courses\\Create.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T18:52:46.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T18:54:36.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "InstructorIndexData.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\SchoolViewModels\\InstructorIndexData.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolViewModels\\InstructorIndexData.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\SchoolViewModels\\InstructorIndexData.cs",
+              "RelativeToolTip": "Models\\SchoolViewModels\\InstructorIndexData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:43:57.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T18:42:09.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CourseAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\CourseAssignment.cs",
+              "RelativeDocumentMoniker": "Models\\CourseAssignment.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\CourseAssignment.cs",
+              "RelativeToolTip": "Models\\CourseAssignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:24:55.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241120222830_ComplexDataModel.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Migrations\\20241120222830_ComplexDataModel.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241120222830_ComplexDataModel.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Migrations\\20241120222830_ComplexDataModel.cs",
+              "RelativeToolTip": "Migrations\\20241120222830_ComplexDataModel.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwHcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:29:15.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:02:13.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:09:36.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OfficeAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\OfficeAssignment.cs",
+              "RelativeDocumentMoniker": "Models\\OfficeAssignment.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\OfficeAssignment.cs",
+              "RelativeToolTip": "Models\\OfficeAssignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:22:27.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:01:11.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20241120211219_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Migrations\\20241120211219_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241120211219_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Migrations\\20241120211219_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241120211219_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:12:50.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SchoolContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Migrations\\SchoolContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\SchoolContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Migrations\\SchoolContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\SchoolContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:13:12.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Students\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Students\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T23:41:56.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "Views\\Students\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T23:24:12.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:10:23.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\Grant\\Desktop\\School\\.Net Software Development\\.Net-Projects\\WatsonUniversity\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:06:29.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

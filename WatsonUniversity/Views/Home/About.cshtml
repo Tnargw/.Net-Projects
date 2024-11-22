@@ -1,0 +1,37 @@
+﻿@model IEnumerable<WatsonUniversity.Models.SchoolViewModels.EnrollmentDateGroup>
+
+@{
+    ViewData["Title"] = "Student Body Statistics";
+}
+
+<h2>Student Body Statistics</h2>
+
+<table>
+    <tr>
+        <th style="padding-right: 20px;">
+            Enrollment Date
+        </th>
+        <th>
+            Students
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td style="padding-right: 20px;">
+                @Html.DisplayFor(modelItem => item.EnrollmentDate)
+            </td>
+            <td>
+                @item.StudentCount
+            </td>
+        </tr>
+    }
+</table>
+
+<hr />
+
+<h3>University Contact Information</h3>
+<p>Head of Admissions: Grant Watson</p>
+<p>Email: WatsonUniversity@University.com</p>
+<p>Phone: 555-555-5555</p>
