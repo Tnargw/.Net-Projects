@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("WatsonUniversity")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cd013e92668fb3524bc5935d1051ca15b9c5f31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba7a169e63d2c773778ed3080fe33a124b92da56")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WatsonUniversity.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
